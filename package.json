@@ -1,6 +1,6 @@
 {
   "name": "ninjadevops-acl",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Access Control List (ACL) module for NestJS, built on top of accesscontrol.",
   "author": "ninjadevops <sebapinery@gmail.com>",
   "private": false,
